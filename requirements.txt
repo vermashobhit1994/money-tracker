@@ -1,0 +1,78 @@
+
+
+how I solve problem of money?
+1. multiple income sources.
+
+
+
+how process of tracking money works?
+Step1: write down financial goal and its time period
+       time period - 6 months / 1 year
+        how it helps?
+        1. write down goal - to increase my income sources ( in terms of amount) 
+        2. write down goal - to decrease my expense  (in terms of amount)
+        3. write down goal - do investment more   (in terms of amount)
+
+Step2: write all income sources
+
+
+Step3: categorise all expenses 
+   1.1 basic needs (can't survive without it) 
+       - food, clothing, electricity, gas, phone recharge (career) , 
+         house
+   1.2 expense on earning sources 
+       - travelling
+       - petrol 
+       - vehicle maintenance
+
+   1.3 wants (can survive without it) - PUT MONEY FROM INVESTMENT RETURN  
+   1.4 future saving (fund to be spent in future) - 
+       - emergency fund
+       - self development
+       - vacation fund 
+       - house maintenance fund 
+       - debt fund (karjaa)
+    
+  1.5 investment (where I can get return by putting money - money works for me)
+       - self-development
+       - education 
+       - putting money in stocks
+       - insurance
+    
+Step4: define percentage of total income to each expenses category 
+   basic needs - 50%
+   expenses on earning source - 5%
+   wants - 10%
+   future saving - 25%
+   investment - 10%
+
+Step5: write expenses day by day for each category
+   how can i categorise expense - day by day - which category?
+    option - user can choose what expense to put into from 5 category 
+           - user can write what type of expense done (eg petrol, electronic repair) 
+           
+
+4. automate - tracking income sources and expense done for each month (month by month)
+            - 
+5. It provides tips to increase your income sources and decrease your expense - additional (using AI)
+   also provide tips for doing investment more   
+
+
+how software help to solve problem of money ?
+                 OR
+why should I use your software and don't do it manually?
+1. time save - by tracking income sources and expenses percentages  
+      and you know where you're spending your income so, track down money spent 
+   "time is money" 
+2. giving you advice - how to increase income sources and decrease your expenses 
+3. helps to achieve your financial goal for predefined time duration  
+
+
+
+features 
+1. write expenses for predefined category - date by date
+   if different category needs to be created for specific niche, it arises at random.   
+
+
+technical terms 
+1. fund - sum of money collected for particular purpose.
